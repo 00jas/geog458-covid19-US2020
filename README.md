@@ -6,8 +6,8 @@ The name of this project is **“Spread of COVID-19 in the United States”**. A
 
 Two thematic maps are created in this project. A thematic map is a map with base maps, thematic layers such as choropleth, dot density, proportional symbols, and some kind of interactive features to increase interactions between map and users. Google Fonts is used on these maps, which is standard, useful online font library. For the two maps created in this project, one is a `choropleth map`, in the `map1.html` page, displaying the **Covid-19 rates**. It is an interactive choropleth web map to see more information when hovering over the states.This choropleth map uses different colors to illustrate the rate of Covid-19 in the United States. **Jenks Natural Breaks Classification** is used into **5** classes as seen on legend. It ranges from 0-499 cases per thousand residents. 
 
-[!Map of Rates of Covid-19 in the United States](img/map1.png)
+![Map of Rates of Covid-19 in the United States](img/map1.png)
 
 The second is a `proportional symbols map`, in the `map2.html` page, of **Covid-19 cases in the United States**. The purpose of this proportional symbols map is to show and provide proper meaning about the raw data. This map will benefit government officials and health providers to reflect on the spread and prepare for the future. Additionally, this increases legibility for users while giving the map an appealing and custom design for specific reasons. **Jenks Natural Breaks Classification** is used into **5** classes as seen on legend, from 0 - 400000 number of counts. 
 
-[!Map of COVID-19 Counts in the United States](img/map2.png)
+![Map of COVID-19 Counts in the United States](img/map2.png)
